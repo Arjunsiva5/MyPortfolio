@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.013b7c15.css",
+    "main.js": "/static/js/main.23126de8.js",
+    "static/media/Photo_fw14_056.jpg": "/static/media/Photo_fw14_056.42e5dcb11fae621cfa57.jpg",
+    "static/media/S-logo.png": "/static/media/S-logo.95c79f61171324a184ea.png",
+    "index.html": "/index.html",
+    "main.013b7c15.css.map": "/static/css/main.013b7c15.css.map",
+    "main.23126de8.js.map": "/static/js/main.23126de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013b7c15.css",
+    "static/js/main.23126de8.js"
+  ]
+}
